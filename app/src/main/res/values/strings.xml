@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GrecoRomanWrestling</string>
+    <string name="_0">0</string>
+    <string name="_5_points">+5 points</string>
+    <string name="_4_points">+4 points</string>
+    <string name="_3_points">+3 points</string>
+    <string name="fighter_a">Fighter A</string>
+    <string name="fighter_b">Fighter B</string>
+    <string name="reset">reset</string>
+    <string name="_1_points">+1 points</string>
+</resources>
